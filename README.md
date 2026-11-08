@@ -1,3 +1,11 @@
+![Solar2D Spaceship Arcade](cover.svg)
+
+> **Solar2D · Lua · Arcade mechanics**
+
+**Area:** Game Development · [Browse project files](./)
+
+---
+
 # Spaceship Arcade (Solar2D)
 
 A 2D arcade game built with Lua and Solar2D. Pilot a spaceship, collect falling stars, and avoid meteors while keeping track of your score and remaining lives.
